@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <h1>Under Construction</h1>
+    <h1>Please Hold</h1>
   );
 }
 
