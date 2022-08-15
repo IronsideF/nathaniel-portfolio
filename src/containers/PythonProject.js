@@ -2,7 +2,7 @@ import React from 'react'
 
 const PythonProject = () => {
   return (
-    <div>But it is not this day</div>
+    <div>As always it was a typo</div>
   )
 }
 
