@@ -1,8 +1,8 @@
-import './App.css';
+import PythonProject from "./containers/PythonProject";
 
 function App() {
   return (
-    <h1>Please Hold</h1>
+    <PythonProject/>
   );
 }
 
