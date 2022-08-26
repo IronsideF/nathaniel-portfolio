@@ -1,15 +1,31 @@
 {
   "files": {
-    "main.css": "/nathaniel-portfolio/static/css/main.e6c13ad2.css",
-    "main.js": "/nathaniel-portfolio/static/js/main.a3cecd20.js",
+    "main.css": "/nathaniel-portfolio/static/css/main.8f56edf4.css",
+    "main.js": "/nathaniel-portfolio/static/js/main.fc606677.js",
     "static/js/787.404938fa.chunk.js": "/nathaniel-portfolio/static/js/787.404938fa.chunk.js",
+    "static/media/TobyPic.png": "/nathaniel-portfolio/static/media/TobyPic.fcbc025ade00bb73928e.png",
+    "static/media/TAPatientPage.png": "/nathaniel-portfolio/static/media/TAPatientPage.92c6dce06b7cc0806792.png",
+    "static/media/TAOwnersPage.png": "/nathaniel-portfolio/static/media/TAOwnersPage.9a564a9e1ccb5f2d979b.png",
+    "static/media/TAHomePage.png": "/nathaniel-portfolio/static/media/TAHomePage.b4e53e27efe5101e5648.png",
+    "static/media/TALogo.png": "/nathaniel-portfolio/static/media/TALogo.6116747ebd6c70b4fc33.png",
+    "static/media/skull_Card-Back.jpg": "/nathaniel-portfolio/static/media/skull_Card-Back.d865ecf55d5fb503d9ab.jpg",
+    "static/media/ReactLogo.png": "/nathaniel-portfolio/static/media/ReactLogo.85898bf919fed03fd80e.png",
+    "static/media/HTMLLogo.png": "/nathaniel-portfolio/static/media/HTMLLogo.35cf8ee5596114bfa4b9.png",
+    "static/media/CSSLogo.png": "/nathaniel-portfolio/static/media/CSSLogo.b5429bec2e796a17bf47.png",
+    "static/media/JavaLogo.png": "/nathaniel-portfolio/static/media/JavaLogo.d378eb28055815d4db67.png",
+    "static/media/PythonLogo.png": "/nathaniel-portfolio/static/media/PythonLogo.ce3687d70711b0e154bf.png",
+    "static/media/JavaScriptLogo.png": "/nathaniel-portfolio/static/media/JavaScriptLogo.eb038b04d90306afdaf4.png",
+    "static/media/slick.svg": "/nathaniel-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/nathaniel-portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/nathaniel-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/nathaniel-portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/nathaniel-portfolio/index.html",
-    "main.e6c13ad2.css.map": "/nathaniel-portfolio/static/css/main.e6c13ad2.css.map",
-    "main.a3cecd20.js.map": "/nathaniel-portfolio/static/js/main.a3cecd20.js.map",
+    "main.8f56edf4.css.map": "/nathaniel-portfolio/static/css/main.8f56edf4.css.map",
+    "main.fc606677.js.map": "/nathaniel-portfolio/static/js/main.fc606677.js.map",
     "787.404938fa.chunk.js.map": "/nathaniel-portfolio/static/js/787.404938fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.a3cecd20.js"
+    "static/css/main.8f56edf4.css",
+    "static/js/main.fc606677.js"
   ]
 }
