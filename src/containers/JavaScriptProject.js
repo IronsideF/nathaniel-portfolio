@@ -10,7 +10,7 @@ import Talon from '../assets/images/Talon.png'
 const JavaScriptProject = () => {
     
   return (<>
-    <a href='/nathaniel-portfolio/'>Home</a>
+    <a href='/'>Home</a>
     <JSWrapper>
     <ImageWrapper>
       <ProjectImage src={InitialGrid}/>

@@ -11,7 +11,7 @@ const PythonProject = () => {
 
   
   return (<>
-    <a href='/nathaniel-portfolio/'>Home</a>
+    <a href='/'>Home</a>
     <PythonWrapper>
     <ImageWrapper>
       <ProjectImage src={TAHomePage}/>
