@@ -1,14 +1,25 @@
 {
   "files": {
-    "main.css": "/nathaniel-portfolio/static/css/main.8f56edf4.css",
-    "main.js": "/nathaniel-portfolio/static/js/main.e0613bae.js",
+    "main.css": "/nathaniel-portfolio/static/css/main.280c66a3.css",
+    "main.js": "/nathaniel-portfolio/static/js/main.67bb93c7.js",
     "static/js/787.404938fa.chunk.js": "/nathaniel-portfolio/static/js/787.404938fa.chunk.js",
+    "static/media/GameInProgress.png": "/nathaniel-portfolio/static/media/GameInProgress.e340d0d66a996ca33395.png",
+    "static/media/InitialGrid.png": "/nathaniel-portfolio/static/media/InitialGrid.f4872e6fb355a7fffda1.png",
+    "static/media/BattleScreen.png": "/nathaniel-portfolio/static/media/BattleScreen.5fcf10cf420c7fd1c202.png",
+    "static/media/TreasureScreen.png": "/nathaniel-portfolio/static/media/TreasureScreen.f3f5fc4a2061ddbf85f6.png",
+    "static/media/RewardsScreen.png": "/nathaniel-portfolio/static/media/RewardsScreen.6f0830610ff5329fa5d8.png",
+    "static/media/DeckScreen.png": "/nathaniel-portfolio/static/media/DeckScreen.02f1abb3b5d30f64a538.png",
+    "static/media/BossScreen.png": "/nathaniel-portfolio/static/media/BossScreen.a7f85b2c3939aa40e6cc.png",
+    "static/media/MapScreen.png": "/nathaniel-portfolio/static/media/MapScreen.728ec82b4e74f7969338.png",
+    "static/media/Graduation.png": "/nathaniel-portfolio/static/media/Graduation.151db98c172c3562ce52.png",
     "static/media/TobyPic.png": "/nathaniel-portfolio/static/media/TobyPic.fcbc025ade00bb73928e.png",
     "static/media/TAPatientPage.png": "/nathaniel-portfolio/static/media/TAPatientPage.92c6dce06b7cc0806792.png",
     "static/media/TAOwnersPage.png": "/nathaniel-portfolio/static/media/TAOwnersPage.9a564a9e1ccb5f2d979b.png",
     "static/media/TAHomePage.png": "/nathaniel-portfolio/static/media/TAHomePage.b4e53e27efe5101e5648.png",
+    "static/media/Talon.png": "/nathaniel-portfolio/static/media/Talon.c25917adf97d7b6a5b67.png",
     "static/media/TALogo.png": "/nathaniel-portfolio/static/media/TALogo.6116747ebd6c70b4fc33.png",
-    "static/media/skull_Card-Back.jpg": "/nathaniel-portfolio/static/media/skull_Card-Back.d865ecf55d5fb503d9ab.jpg",
+    "static/media/SelectedCards.png": "/nathaniel-portfolio/static/media/SelectedCards.b6c2dedd6fb99b8a97b7.png",
+    "static/media/StackedCards.png": "/nathaniel-portfolio/static/media/StackedCards.80f7ccc23cbdf5fd7d50.png",
     "static/media/ReactLogo.png": "/nathaniel-portfolio/static/media/ReactLogo.85898bf919fed03fd80e.png",
     "static/media/HTMLLogo.png": "/nathaniel-portfolio/static/media/HTMLLogo.35cf8ee5596114bfa4b9.png",
     "static/media/CSSLogo.png": "/nathaniel-portfolio/static/media/CSSLogo.b5429bec2e796a17bf47.png",
@@ -20,12 +31,12 @@
     "static/media/slick.ttf": "/nathaniel-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/nathaniel-portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/nathaniel-portfolio/index.html",
-    "main.8f56edf4.css.map": "/nathaniel-portfolio/static/css/main.8f56edf4.css.map",
-    "main.e0613bae.js.map": "/nathaniel-portfolio/static/js/main.e0613bae.js.map",
+    "main.280c66a3.css.map": "/nathaniel-portfolio/static/css/main.280c66a3.css.map",
+    "main.67bb93c7.js.map": "/nathaniel-portfolio/static/js/main.67bb93c7.js.map",
     "787.404938fa.chunk.js.map": "/nathaniel-portfolio/static/js/787.404938fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f56edf4.css",
-    "static/js/main.e0613bae.js"
+    "static/css/main.280c66a3.css",
+    "static/js/main.67bb93c7.js"
   ]
 }
