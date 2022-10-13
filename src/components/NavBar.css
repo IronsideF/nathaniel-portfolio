@@ -7,10 +7,8 @@
 }
 .nav-link:hover {
     color: red;
-    font-weight: bolder;
 }
 
 .active {
     color: red;
-    font-weight: bolder;
 }

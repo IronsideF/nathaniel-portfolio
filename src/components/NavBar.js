@@ -29,6 +29,13 @@ const NavBar = ({setPreview}) => {
         Devils Grip: A Solitaire Game
         </NavLink>
         <NavLink
+        to="/caledonia/"
+        className="nav-link"
+        onMouseEnter={()=>setPreview('java')}
+        >
+        Caledonia: A Deck Building Roguelike
+        </NavLink>
+        <NavLink
         to='/about/'
         className='nav-link'
         onMouseEnter={()=>setPreview('about')}
@@ -50,7 +57,7 @@ const NavHeader = styled.div`
   display: flex;
   justify-content: center;
   align-items: flex-end;
-  height: 4vh;
+  height: 5vh;
   background-color: black;
 `;
 
