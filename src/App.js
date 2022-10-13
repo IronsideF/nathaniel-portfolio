@@ -13,7 +13,7 @@ function App() {
   return (
   <Router>
     <Routes>
-      <Route path="/" element={<LandingPage/>}/>
+      <Route path="/nathaniel-portfolio/" element={<LandingPage/>}/>
       <Route path="/tobys-angels/" element={<PythonProject/>}/>
       <Route path="/devils-grip/" element={<JavaScriptProject/>}/>
       <Route path="/caledonia/" element={<JavaProject/>}/>
