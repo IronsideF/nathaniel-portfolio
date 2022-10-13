@@ -61,7 +61,7 @@ const LandingPage = () => {
             <LogoImage className='circle deg-300' src={JavaLogo} alt="Java" /></CircleLink>
           </HomeWrapper>
         </AboutWrapper>
-        <a href="public/NathanielForsyth_JuniorSoftwareDeveloper_CV.pdf" download><CVButton>CV</CVButton></a>
+        <a href="NathanielForsyth_JuniorSoftwareDeveloper_CV.pdf" download><CVButton>CV</CVButton></a>
         <h2>Contact Me</h2>
         <ContactWrapper>
           <h3><ContactLink href='https://www.linkedin.com/in/nathaniel-forsyth/'>LinkedIn</ContactLink></h3>

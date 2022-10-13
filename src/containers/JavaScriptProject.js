@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import ImageCarousel from '../components/ImageCarousel';
 import InitialGrid from '../assets/images/InitialGrid.png'
 import GameInProgress from '../assets/images/GameInProgress.png'
 import SelectedCards from '../assets/images/SelectedCards.png'
@@ -10,7 +9,7 @@ import Talon from '../assets/images/Talon.png'
 const JavaScriptProject = () => {
     
   return (<>
-    <a href='/'>Home</a>
+    <a href='/nathaniel-portfolio/'>Home</a>
     <JSWrapper>
     <ImageWrapper>
       <ProjectImage src={InitialGrid}/>

@@ -10,7 +10,7 @@ import BossScreen from '../assets/images/BossScreen.png';
 
 const JavaProject = () => {
   return (<>
-    <a href='/'>Home</a>
+    <a href='/nathaniel-portfolio/'>Home</a>
     <JavaWrapper>
     <ImageWrapper>
         <ProjectImage src={BattleScreen}/>

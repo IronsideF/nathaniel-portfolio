@@ -3,7 +3,6 @@ import styled from 'styled-components';
 import TAHomePage from '../assets/images/TAHomePage.png'
 import TAPatientPage from '../assets/images/TAPatientPage.png'
 import TAOwnersPage from '../assets/images/TAOwnersPage.png'
-import ImageCarousel from '../components/ImageCarousel';
 import TobyPic from '../assets/images/TobyPic.png'
 
 const PythonProject = () => {
@@ -11,7 +10,7 @@ const PythonProject = () => {
 
   
   return (<>
-    <a href='/'>Home</a>
+    <a href='/nathaniel-portfolio/'>Home</a>
     <PythonWrapper>
     <ImageWrapper>
       <ProjectImage src={TAHomePage}/>
