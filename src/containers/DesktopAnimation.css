@@ -1,0 +1,64 @@
+    @media (min-width:1024px) {
+
+        .project-image {
+            width: 25vw;
+        }
+        .about-content {
+            max-width: 40vw;
+        }
+        
+    .animation-wrapper {
+        display:grid;
+        grid-template-columns: first-col 100%;
+        grid-template-rows: first-row 100%;
+        height: 275px;
+        width: 400px;
+        margin-right: 10vw;
+    }
+        
+    .circle {
+        offset-path: path("M200,0 A200,200 0 1,1 200,400 A200,200 0 1,1 200,0");
+        animation: followpath 9s linear infinite;
+        offset-rotate: 0deg;
+    }
+    .reverse-circle{
+        offset-path: path("M200,100 A50,50 0 1,1 200,300 A50,50 0 1,1 200,100");
+        animation: followpath 9s linear infinite reverse;
+        offset-rotate: 0deg;
+    }
+    
+    @keyframes followpath {
+        to {
+            motion-offset: 100%;
+            offset-distance: 100%;
+        }
+    }
+    .deg-0 {
+        animation-delay: 0;
+    }
+    .deg-60 {
+        animation-delay: 0;
+    }
+    .deg-120 {
+        animation-delay: 3s;
+    }
+    .deg-180 {
+        animation-delay: 6s;
+    }
+    .deg-240 {
+        animation-delay: 3s;
+    }
+    .deg-300 {
+        animation-delay: 6s;
+    }
+    .contact-wrapper {
+        width: 38.75vw;
+    }
+    .port-button {
+        width: 9vw;
+    }
+    }
+
+
+
+

@@ -1,0 +1,19 @@
+@media screen and (min-width:1024px) {
+    .text-wrapper {
+        width: 40vw;
+    }
+    .mobile-image {
+        display: none;
+    }
+    .image-wrapper {
+        display:flex;
+    }
+    .port-button {
+        width: 9vw;
+        height: 5vh;
+    }
+    .desktop-image {
+        height: 35vh;
+        width: 40vw;
+    }
+}

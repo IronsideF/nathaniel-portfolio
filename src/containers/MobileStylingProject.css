@@ -1,0 +1,26 @@
+@media screen and (max-width:425px){
+    .port-button {
+        width: 30vw;
+        margin-top: 3vh;
+    }
+    .image-wrapper {
+        display: none;
+    }
+    .text-wrapper {
+        width: 80vw;
+    }
+    .mobile-image {
+        display:block;
+        width: 80vw;
+        height: 35vh;
+    }
+    .button-link {
+        align-self: center;
+    }
+    .home-link {
+        margin-left: 35vw;
+    }
+    .download-link {
+        display: none;
+    }
+}
